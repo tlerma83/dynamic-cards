@@ -1,0 +1,20 @@
+.red {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #414141;
+    border-radius: 100%;
+}
+
+.red p {
+    text-align: center;
+    margin-top: 1em;
+}
+
+.red button {
+    display: block;
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 1em;
+}
